@@ -55,13 +55,7 @@ coming soon!
 ## 📖 Citation
 If you find our code or paper helps, please consider citing:
 ```bibtex
-@article{shan2025mojito,
-  title   = {Mojito: LLM-Aided Motion Instructor with Jitter-Reduced Inertial Tokens},
-  author  = {Shan, Ziwei and He, Yaoyu and Du, Jiashen and Zhao, Chengfeng and Zhang, Jingyan and 
-             Zhang, Qixuan and Yu, Jingyi and Xu, Lan},
-  journal = {arXiv preprint arXiv:},
-  year    = {2025}
-}
+Please waiting!
 ```
 
 ## Acknowledgments
