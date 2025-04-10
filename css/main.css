@@ -146,11 +146,17 @@ video {
     box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
 }
 
-.x-gradient-font {
+/* .x-gradient-font {
     background: linear-gradient(107.54deg, #000000.39%, #525252 51.23%, #969696 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+} */
+.x-gradient-font {
+  background: linear-gradient(45deg, #4B0082 0%, #8A2BE2 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .x-gradient-block {
