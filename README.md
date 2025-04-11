@@ -9,8 +9,8 @@
   <br>
   Renwen Wang</a><sup>2</sup>,
   Jianran Liu</a><sup>2</sup>,
-  Qi Wu</a><sup>2</sup>,
-  Ling Pei</a><sup>1,&dagger;</sup>
+  <a href='https://sjtu-robotics.com/zh/' target='_blank'>Qi Wu</a><sup>2</sup>,
+  <a href='https://scholar.google.com.hk/citations?user=Vm7d2EkAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Ling Pei</a><sup>1,&dagger;</sup>
 </p>
 <p align="center">
   <sup>1</sup>Shanghai Jiao Tong University&nbsp;&nbsp;
