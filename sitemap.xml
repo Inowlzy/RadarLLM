@@ -7,6 +7,27 @@
 >
 
 <url>
+ <loc>https://arxiv.org/abs/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://github.com/Inowlzy/RadarLLM</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://koyui.github.io/mojito/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
  <loc>https://inowlzy.github.io/RadarLLM/</loc>
  <priority>0.3</priority>
  <lastmod>2025-04-11</lastmod>
