@@ -3,7 +3,7 @@
 <p align="center">
   Zengyuan Lai</a><sup>1,2,*</sup>,
   Jiarui Yang</a><sup>1,*</sup>,
-  Songpengcheng Xia</a><sup>1,*</sup>,
+  <a href='https://xspc.github.io/' target='_blank'>Songpengcheng Xia</a><sup>1,*</sup>,
   Lizhou Lin</a><sup>1</sup>,
   Lan Sun</a><sup>1</sup>,
   <br>
