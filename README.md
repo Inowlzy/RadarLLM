@@ -1,4 +1,4 @@
-<h1 align="center">RadarLLM: Empowering Large Language Models to Understand Human  Motion from Millimeter-wave Point Cloud Sequence</h1>
+<h1 align="center">RadarLLM: Empowering Large Language Models to Understand Human  Motion from Millimeter-Wave Point Cloud Sequence</h1>
 
 <p align="center">
   Zengyuan Lai</a><sup>1,2,*</sup>,
@@ -19,17 +19,22 @@
   <i><sup>*</sup>Equal contribution</i>
   <br>
   <i><sup>&dagger;</sup>Corresponding author</i>
+  <br>
+  🤩 Accepted to AAAI 2026
 </p>
 <p align="center">
-  <a href="https://arxiv.org/abs/"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
+  <a href="https://arxiv.org/abs/2504.09862"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
   <a href='https://inowlzy.github.io/radarllm/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
 </p>
 <div align="center">
   <img width="900px" src="./assets/intro.png"/>
 </div>
+<p align="center">
+This is the PyTorch implementation of our paper RadarLLM at AAAI 2026.
+</p>
 
 ## TODO
-- [ ] Release code and pretrained model.
+- [ ] Release code and pretrained model. (We are making every effort to accelerate the preparation and approval of relevant materials.)
 
 ## 🚀 Getting Started
 
