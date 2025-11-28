@@ -20,14 +20,14 @@
   <br>
   <i><sup>&dagger;</sup>Corresponding author</i>
   <br>
-  🤩 Accepted to AAAI 2026
 </p>
+<h3 align="center">🤩 Accepted to AAAI 2026 🤩</h3>
 <p align="center">
   <a href="https://arxiv.org/abs/2504.09862"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
   <a href='https://inowlzy.github.io/RadarLLM/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
 </p>
 <div align="center">
-  <img width="900px" src="./assets/intro.png"/>
+  <img width="900px" src="./assets/intro_new.png"/>
 </div>
 <p align="center">
 This is the PyTorch implementation of our paper RadarLLM at AAAI 2026.
